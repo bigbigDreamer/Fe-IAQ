@@ -1,4 +1,14 @@
 {
+  "title" : "gitbook-notes",
+  "styles": {
+  "website": "",
+  "ebook": "",
+  "pdf": "",
+  "mobi": "",
+  "epub": ""
+  },
+  "author" : "eric wang",
+  "description" : "Fe IAQ",
   "plugins": ["github"],
   "pluginsConfig": {
     "github": {
